@@ -73,39 +73,39 @@ layers:
   - {t: ▽, type: trans}
   - '0'
   Symbol:
-  - '~'
-  - '&'
-  - '*'
-  - {t: ▽, type: trans}
-  - +
-  - {t: ▽, type: trans}
-  - '{'
-  - '}'
-  - {t: ▽, type: trans}
-  - '|'
-  - '-'
-  - $
-  - '%'
-  - ^
-  - '='
-  - {t: ▽, type: trans}
-  - (
-  - )
-  - '"'
-  - ''''
-  - _
-  - '!'
-  - '@'
-  - '#'
-  - '`'
-  - {t: ▽, type: trans}
   - '['
+  - '7'
+  - '8'
+  - '9'
   - ']'
   - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - ''''
+  - '4'
+  - '5'
+  - '6'
+  - '='
+  - {t: ▽, type: trans}
+  - $$mdi:apple-keyboard-shift$$
+  - $$mdi:apple-keyboard-control$$
+  - $$mdi:apple-keyboard-option$$
+  - $$mdi:apple-keyboard-command$$
+  - '`'
+  - '1'
+  - '2'
+  - '3'
   - \
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - .
+  - '0'
+  - '-'
   - {t: ▽, type: trans}
   - {type: held}
   Navigation:
