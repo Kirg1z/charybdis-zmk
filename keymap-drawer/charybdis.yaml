@@ -115,18 +115,18 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - HOME
+  - $$mdi:arrow-up-bold$$
+  - END
   - {t: ▽, type: trans}
   - $$mdi:apple-keyboard-command$$
   - $$mdi:apple-keyboard-option$$
   - $$mdi:apple-keyboard-control$$
   - $$mdi:apple-keyboard-shift$$
   - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - $$mdi:arrow-left-bold$$
   - $$mdi:arrow-down-bold$$
-  - $$mdi:arrow-up-bold$$
   - $$mdi:arrow-right-bold$$
   - $$mdi:apple-keyboard-caps$$
   - {t: ▽, type: trans}
@@ -134,10 +134,10 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - HOME
-  - PAGE DOWN
+  - {t: ▽, type: trans}
   - PAGE UP
-  - END
+  - APP
+  - PAGE DOWN
   - INS
   - {t: ▽, type: trans}
   - {type: held}
