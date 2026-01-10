@@ -33,9 +33,9 @@ layers:
   - {t: /, h: Pointer}
   - {t: '$$mdi:keyboard-esc$$', h: Media}
   - {t: '$$mdi:keyboard-space$$', h: Navigation}
-  - {t: Numeral/Function, h: sticky}
+  - {t: '$$mdi:keyboard-tab$$', h: Numeral/Function}
   - {t: '$$mdi:keyboard-return$$', type: enter}
-  - {t: Symbol, h: sticky}
+  - {t: '$$mdi:backspace$$', h: Symbol}
   Numeral/Function:
   - {t: ▽, type: trans}
   - F7
