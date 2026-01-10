@@ -93,9 +93,9 @@
         Navigation {
             label = "Navigation";
             bindings = <
-              &trans       &trans       &trans        &trans        &trans               &trans    &trans         &trans       &trans    &trans
-              &kp LGUI     &kp LALT     &kp LCTRL     &kp LSHFT     &trans               &kp LEFT  &kp DOWN       &kp UP       &kp RIGHT &kp CAPSLOCK
-              &trans       &trans       &trans        &trans        &trans               &kp HOME  &kp PAGE_DOWN  &kp PAGE_UP  &kp END   &kp INS
+              &trans       &trans       &trans        &trans        &trans               &trans    &kp HOME       &kp UP       &kp END    &trans
+              &kp LGUI     &kp LALT     &kp LCTRL     &kp LSHFT     &trans               &trans    &kp LEFT       &kp DOWN     &kp RIGHT &kp CAPSLOCK
+              &trans       &trans       &trans        &trans        &trans               &trans    &kp PAGE_UP    &kp K_APP  &kp PAGE_DOWN   &kp INS
                                         &trans        &trans        &trans               &trans    &kp DELETE
             >;
         };
