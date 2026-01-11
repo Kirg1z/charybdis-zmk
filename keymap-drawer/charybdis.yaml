@@ -114,7 +114,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - AC FORWARD
+  - FORWARD
   - HOME
   - $$mdi:arrow-up-bold$$
   - END
@@ -124,7 +124,7 @@ layers:
   - $$mdi:apple-keyboard-control$$
   - $$mdi:apple-keyboard-shift$$
   - {t: ▽, type: trans}
-  - AC BACK
+  - BACK
   - $$mdi:arrow-left-bold$$
   - $$mdi:arrow-down-bold$$
   - $$mdi:arrow-right-bold$$
@@ -134,7 +134,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - AC REFRESH
+  - REFRESH
   - PAGE UP
   - APP
   - PAGE DOWN
