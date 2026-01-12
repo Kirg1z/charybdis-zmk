@@ -296,7 +296,7 @@ combos:
   k: '&mkp RCLK'
   l: [Base]
 - p: [22, 23]
-  k: '&msk SCRL_DOWN'
+  k: '&mkp MCLK'
   l: [Base]
 - p: [17, 18]
   k: '&mkp LCLK'
@@ -305,5 +305,5 @@ combos:
   k: '&mkp RCLK'
   l: [Base]
 - p: [26, 27]
-  k: '&msk SCRL_UP'
+  k: '&mkp MCLK'
   l: [Base]
