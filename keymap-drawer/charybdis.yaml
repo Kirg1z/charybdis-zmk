@@ -307,3 +307,6 @@ combos:
 - p: [17, 18]
   k: Alt+$$mdi:arrow-left-bold$$
   l: [Navigation]
+- p: [27, 28]
+  k: Alt+$$mdi:arrow-up-bold$$
+  l: [Navigation]
