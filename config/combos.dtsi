@@ -18,7 +18,7 @@ combos {
   COMBO(l_rightclick, &mkp RCLK, 21 22, BASE, COMBO_TERM_SLOW)
   COMBO(l_capslock, &kp CAPSLOCK, 1 2, BASE, COMBO_TERM_SLOW)
 
-  COMBO(r_leftclick, &mkp LCLK, 17 18, BASE, COMBO_TERM_SLOW)
+  COMBO(l_close, &kp LA(F4), 2 3, BASE, COMBO_TERM_SLOW)
   COMBO(r_rightclick, &mkp RCLK, 27 28, BASE, COMBO_TERM_SLOW)
   COMBO(r_middleclick, &mkp MCLK, 26 27, BASE, COMBO_TERM_SLOW)
 }; 
