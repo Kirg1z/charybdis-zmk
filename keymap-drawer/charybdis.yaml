@@ -301,9 +301,9 @@ combos:
 - p: [2, 3]
   k: Alt+F4
   l: [Base]
-- p: [27, 28]
-  k: '&mkp RCLK'
+- p: [7, 8]
+  k: Gui+E
   l: [Base]
-- p: [26, 27]
-  k: '&mkp MCLK'
-  l: [Base]
+- p: [17, 18]
+  k: Alt+$$mdi:arrow-left-bold$$
+  l: [Navigation]
