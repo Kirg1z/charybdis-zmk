@@ -354,6 +354,18 @@ path.combo {
 <rect rx="6" ry="6" x="546" y="130" width="28" height="26" class="combo"/>
 <use href="#mdi:keyboard-space" xlink:href="#mdi:keyboard-space" x="553" y="136" height="14" width="14.0" class="combo tap glyph mdi:keyboard-space"/>
 </g>
+<g class="combo combopos-7">
+<rect rx="6" ry="6" x="154" y="74" width="28" height="26" class="combo"/>
+<text x="168" y="88" class="combo tap">Ctl+C</text>
+</g>
+<g class="combo combopos-8">
+<rect rx="6" ry="6" x="154" y="18" width="28" height="26" class="combo"/>
+<text x="168" y="32" class="combo tap">Ctl+X</text>
+</g>
+<g class="combo combopos-9">
+<rect rx="6" ry="6" x="154" y="130" width="28" height="26" class="combo"/>
+<text x="168" y="144" class="combo tap">Ctl+V</text>
+</g>
 </g>
 </g>
 <g transform="translate(30, 329)" class="layer-Numeral/Function">

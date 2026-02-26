@@ -316,3 +316,12 @@ combos:
 - p: [26, 27]
   k: Gui+$$mdi:keyboard-space$$
   l: [Base]
+- p: [12, 13]
+  k: Ctl+C
+  l: [Base]
+- p: [2, 3]
+  k: Ctl+X
+  l: [Base]
+- p: [22, 23]
+  k: Ctl+V
+  l: [Base]
