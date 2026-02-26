@@ -298,7 +298,10 @@ combos:
 - p: [1, 2]
   k: $$mdi:apple-keyboard-caps$$
   l: [Base]
-- p: [2, 3]
+- p: [20, 21]
+  k: Alt+F4
+  l: [Base]
+- p: [28, 29]
   k: Alt+F4
   l: [Base]
 - p: [7, 8]
@@ -310,3 +313,9 @@ combos:
 - p: [27, 28]
   k: Alt+$$mdi:arrow-up-bold$$
   l: [Navigation]
+- p: [1, 2]
+  k: $$mdi:apple-keyboard-caps$$
+  l: [Base]
+- p: [26, 27]
+  k: Gui+$$mdi:keyboard-space$$
+  l: [Base]
