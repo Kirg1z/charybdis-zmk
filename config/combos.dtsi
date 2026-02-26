@@ -23,6 +23,5 @@ combos {
   COMBO(r_mypc, &kp LG(E), 7 8, BASE, COMBO_TERM_SLOW)
   COMBO(r_back, &kp LA(LEFT), 17 18, NAV, COMBO_TERM_SLOW)
   COMBO(r_folderup, &kp LA(UP), 27 28, NAV, COMBO_TERM_SLOW)
-  COMBO(l_capslock, &kp CAPSLOCK, 1 2, BASE, COMBO_TERM_SLOW)
   COMBO(r_language, &kp LG(SPACE), 26 27, BASE, COMBO_TERM_SLOW)
 }; 
