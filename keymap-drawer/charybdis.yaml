@@ -70,8 +70,8 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {type: held}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - Ctl+KP MINUS
+  - '|'
   Symbol:
   - '`'
   - '7'
@@ -97,13 +97,13 @@ layers:
   - '1'
   - '2'
   - '3'
-  - \
+  - KP DIVIDE
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - .
+  - KP DOT
   - '0'
   - '-'
   - {t: ▽, type: trans}
@@ -169,7 +169,7 @@ layers:
   - '!'
   - '@'
   - '#'
-  - '|'
+  - \
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
