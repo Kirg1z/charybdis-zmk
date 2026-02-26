@@ -351,10 +351,6 @@ path.combo {
 <text x="616" y="32" class="combo tap">Gui+E</text>
 </g>
 <g class="combo combopos-6">
-<rect rx="6" ry="6" x="98" y="18" width="28" height="26" class="combo"/>
-<use href="#mdi:apple-keyboard-caps" xlink:href="#mdi:apple-keyboard-caps" x="105" y="24" height="14" width="14.0" class="combo tap glyph mdi:apple-keyboard-caps"/>
-</g>
-<g class="combo combopos-7">
 <rect rx="6" ry="6" x="546" y="130" width="28" height="26" class="combo"/>
 <use href="#mdi:keyboard-space" xlink:href="#mdi:keyboard-space" x="553" y="136" height="14" width="14.0" class="combo tap glyph mdi:keyboard-space"/>
 </g>

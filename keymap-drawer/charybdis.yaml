@@ -313,9 +313,6 @@ combos:
 - p: [27, 28]
   k: Alt+$$mdi:arrow-up-bold$$
   l: [Navigation]
-- p: [1, 2]
-  k: $$mdi:apple-keyboard-caps$$
-  l: [Base]
 - p: [26, 27]
   k: Gui+$$mdi:keyboard-space$$
   l: [Base]
